@@ -1,1 +1,3 @@
+mkdir mon_nouveau_projet
+cd mon_nouveau_projet
 git clone URL_DEPOT_DISTANT .
